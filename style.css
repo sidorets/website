@@ -11,11 +11,12 @@
   }
 
   nav {
+    margin-top: 4px;
     display: flex;
     flex-direction: flex; /* Ссылки теперь одна под другой */
     align-items: center; /* Выравниваем ссылки по центру */
     gap: 8px; /* Отступы между ссылками */
-    margin-top: 10px;
+    margin-top: 8;
   }
 
   nav a {
