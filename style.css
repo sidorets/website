@@ -9,6 +9,30 @@ body {
   margin: 0;
 }
 
+/* Стили для footer */
+footer {
+  width: 100%;
+  padding: 15px;
+  background-color: #000000;
+  color: #888;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  font-size: 14px;
+}
+
+/* Оформление ссылок навигации */
+.navigation a {
+  color: #496AEB;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+.navigation a:hover {
+  color: #4d8cf9;
+}
+
 .container {
   background-color: rgb(0, 0, 0);
   padding: 30px;
