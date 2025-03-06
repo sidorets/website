@@ -26,21 +26,24 @@ body {
 }
 
 h1 {
-  margin-top: 20px;
+  margin: 0;
+  margin-top: 16px;
   font-size: 28px;
 }
 
 .bio {
+  margin: 0;
   margin-top: 10px;
   font-size: 16px;
 }
 
 .contacts {
+  margin: 0;
   margin-top: 20px;
 }
 
 .contacts a {
-  color: #0066ff;
+  color: #496AEB;
   text-decoration: none;
 }
 
